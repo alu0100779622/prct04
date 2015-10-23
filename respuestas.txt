@@ -1,0 +1,10 @@
+¿Qué es rvm (Ruby Version Manager)?
+Es una herramienta de linea de comando que te permite instalar, gestionar y trabajar con multiples entornos de ruby
+
+¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete de Ruby 
+(ruby helloWorld.rb) y el intérprete interactivo del ejercicio anterior?
+Con la ejecución de irb vemos paso a paso la ejecución de cada linea, mientras que con el interprete de ruby vemos solo lo que se muestra por pantalla
+
+¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el inté rprete
+interactivo y con pry?
+Que con pry podemos editar y ver el codigo por linea de comando, mostrando valores de variables, creando funciones...
